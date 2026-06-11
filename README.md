@@ -1,17 +1,23 @@
-# Business Sales Dashboard
+# FUTURE_DS_01
 
-## Tools Used
+## Candidate Details
+- Name: BONTHALAKOTI RANGA SAI NITHIN CHANDRA
+- CIN: FIT/JUN26/DS19837
+
+## Business Sales Dashboard
+
+### Tools Used
 - Power BI
 - DAX
-- Data Analysis
+- Data Visualization
 
-## Dashboard Features
+### Dashboard Features
 - Total Sales KPI
 - Total Profit KPI
 - Sales by Category
 - Regional Analysis
 - Customer Insights
 
-## Files
-- Sales_Dashboard.pbix
-- Dashboard Screenshot
+### Project Contents
+- Page 1: Interactive Sales Dashboard
+- Page 2: Insights and Recommendations
