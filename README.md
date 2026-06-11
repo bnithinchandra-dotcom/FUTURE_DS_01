@@ -19,5 +19,5 @@
 - Customer Insights
 
 ### Project Contents
-- Page 1: Interactive Sales Dashboard
-- Page 2: Insights and Recommendations
+- Page 1: Interactive Sales Dashboard.
+- Page 2: Insights and Recommendations.
