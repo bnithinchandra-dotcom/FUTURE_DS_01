@@ -11,6 +11,9 @@
 - DAX
 - Data Visualization
 
+### Data Set Used
+- Superstore Sales Dataset
+
 ### Dashboard Features
 - Total Sales KPI
 - Total Profit KPI
